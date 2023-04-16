@@ -1,0 +1,5 @@
+install.packages("tidyverse")
+install.packages("rmarkdown")
+install.packages("vegan")
+devtools::install_github("phyloseq/joey711")
+devtools::install_github("david-barnett/microViz")
