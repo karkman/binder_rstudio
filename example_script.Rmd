@@ -1,0 +1,7 @@
+# Example R markdown document
+
+Load data
+
+```{r}
+data <- read_tsv("Data/data.txt")
+```
