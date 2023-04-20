@@ -1,0 +1,131 @@
+gene	sample	sequence	num_hits	coverage	taxonomy
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GACGCACAAGCAGTCAAAGAAGCATCCAAAGTCGGCATTCCAATCGTCGCCCTATGCAGC	1	1.01	Root; d__Archaea; p__Thermoproteota; c__Bathyarchaeia; o__B26-1; f__UBA233; g__PALSA-986
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GACCGAAACGCCATAAAGGACGCCATCAAGGTGGGCATCCCGATTATTGCATTATGTGAT	1	1.01	Root; d__Archaea; p__Nanoarchaeota; c__Nanoarchaeia; o__Woesearchaeales
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GACTTGCAGGCAGTCAAAGAGGCCGTCGACATTGGAGTTCCGGTAGTCGCA---AGTGAC	1	1.01	Root; d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GATGCCCAGGCGATCAAT---GGCGTGGATGTAGGCATACCGGTAATCGCTCTATGCGAT	1	1.01	Root; d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanotrichales; f__Methanotrichaceae; g__Methanothrix
+S2.8.ribosomal_protein_S2_rpsB	nanopore	CGACGCCCAGCGATCCGCGAGGCGGTCCAGTCGGGGGTTCCGGTCGTCGCGCTCTGCGAC	1	1.01	Root; d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanosphaerulaceae
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GATGCACAAGCAGTCAAAGAAGCATCCAAAGTCGGCATTCCTATCGTAGCCTTATGCAGC	1	1.02	Root; d__Archaea; p__Thermoproteota; c__Bathyarchaeia; o__B26-1; f__UBA233; g__PALSA-986
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GACTTGCAGGCAGTCAAAGAGGCCGTCGACATTGGAGTTCCGGTAGTCGCAATGTGCGAC	1	1.02	Root; d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAGGCCATCGCCGTCAAAGAGGCCTGCAAGCTCAAGATCCCGATCGTCGCGCTGGTCGAC	1	1.01	Root; d__Bacteria; p__Actinobacteriota; c__Thermoleophilia; o__UBA2241; f__UBA2241
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GACCAGAATGCGGTCTTGGAAGCGAATAAACTTGGGATCCCTGTTGTAGCTGTGGTGGAT	1	1.01	Root; d__Bacteria
+S2.8.ribosomal_protein_S2_rpsB	nanopore	AAGGCCATCGTGGTCAAGGAAGCGCGCAAGCTCAAGGTCCCCATCGTCGCGCTCGTGGAC	1	1.02	Root; d__Bacteria; p__Actinobacteriota; c__Thermoleophilia; o__UBA2241; f__UBA2241
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAGAGGATTGCCGTTGCAGAAGCAAAAAAACTCTCGGTGCCTATCGTCGCGATAGTCGAC	2	2.04	Root; d__Bacteria; p__Nitrospirota; c__Thermodesulfovibrionia; o__Thermodesulfovibrionales; f__SM23-35
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAACACATTGCGGTAAGAGAGGCTAAAAGACTCGGCATTCCGGTTTTTGCCATGGTTGAC	1	1.02	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__VadinHA17; g__LD21
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAGCGGATCGCGGTCACCGAGGCCCGCAAGCTAGAGATCCCCATCGTCGGCACCGGCGAT	1	1.01	Root; d__Bacteria; p__Chloroflexota; c__Ellin6529; o__CSP1-4; f__CSP1-4
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAGCGCATCGCGGTCGCCGAGGGGCGCAAGCTCGGCATCCCGATCGTCGGCCTGGTCGAC	1	1.05	Root; d__Bacteria; p__Actinobacteriota; c__RBG-13-55-18
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAGGCGATCGCGATCCTCGAGGGCCGGCGGCTGAGGATCCCCATCGTCGCCATCGTGGAC	1	1.01	Root; d__Bacteria; p__Desulfobacterota; c__MBNT15; o__MBNT15; f__MBNT15; g__CG2-30-66-27
+S2.8.ribosomal_protein_S2_rpsB	nanopore	CGAGGGCCGGCGGCTGAGGATCCCCATCGTCGCCATCGT------------GGACACGAA	1	1.01	Root; d__Bacteria; p__Desulfobacterota; c__MBNT15; o__MBNT15; f__MBNT15; g__CG2-30-66-27
+S2.8.ribosomal_protein_S2_rpsB	nanopore	AATCACCGCAGGCAGTCAGGAGGCGTCGACATTGGAGTTCCGGTAGTCGCAATGTGCGAC	1	1.02	Root; d__Archaea; p__Halobacteriota
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GACAATTTGGCGCTTAAGGAAGCCAAGATAAAAAAAATTCCGATTATTGCTTTAGTAGAT	1	1.02	Root; d__Bacteria; p__Patescibacteria; c__Paceibacteria_A; o__Moranbacterales; f__UBA2206
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAAGCGACCGCCATCCATGAAGCGAATTCATTAAACATCCCGGTAGTGGCGATGGTGGAT	1	1.01	Root; d__Bacteria; p__Chloroflexota; c__Anaerolineae; o__Anaerolineales; f__UBA6092
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAACATATTGCCGTAAGAGAAGCAAAAAGACTTGGAATTTCGGTTTTTGCAATGGTAGAT	1	1.03	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__VadinHA17; g__LD21
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAGAAGATCGCCGTCGACGAGGCCCGGAAGCTGAAGATCCCGGTCATCGGCGTGGTCGAC	1	1.01	Root; d__Bacteria; p__Acidobacteriota; c__Vicinamibacteria; o__Vicinamibacterales; f__UBA2999
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAGCGGATCGCGGTCACCGAGGCCCGCAAGCTGGAGATCCCCATCGTCGGCACCGGCGAT	1	1.01	Root; d__Bacteria; p__Chloroflexota; c__Ellin6529; o__CSP1-4; f__CSP1-4
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAAGCGACCGCCATCCATGAAGCAAGTCTATTAAACATCCCGGTAGTGGCGATGGTGGAT	1	1.01	Root; d__Bacteria; p__Chloroflexota; c__Anaerolineae; o__Anaerolineales; f__UBA6092
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAACATATAACAGTTAATGAAGCAAGAAAATTAAGAATTCCGTTAGTGGCCATCGTTGAT	1	1.01	Root; d__Bacteria; p__Desulfobacterota; c__Syntrophia; o__Syntrophales; f__Smithellaceae; g__Smithella
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAGGATATTGCGGTCCACGAAGCCCGCAAGTTGGGCGTACCGATAATCGGTGTCGTGGAT	1	1.00	Root; d__Bacteria; p__Firmicutes_G; c__Limnochordia; o__Limnochordales; f__ZCTH02-B6
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAGTATATTGCGGTTAACGAGGCCAGGAAACTGAGTATACCAACGGTGGGCATCGTCGAT	1	1.05	Root; d__Bacteria; p__Desulfobacterota; c__Syntrophorhabdia; o__Syntrophorhabdales; f__WCHB1-27
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAGCGGATTGCGGTCACCGAGGCCCGCAAGCTCGAGCTCCCGATCGTCGGCACCGGCGAC	1	1.01	Root; d__Bacteria; p__Chloroflexota; c__Ellin6529; o__CSP1-4; f__CSP1-4
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAGGCGATCGCGATCCTCGAGGGCCGGCGGCTGGGGATCCCCATCGTCGCCATCGTGGAC	1	1.01	Root; d__Bacteria; p__Desulfobacterota; c__MBNT15; o__MBNT15; f__MBNT15; g__CG2-30-66-27
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GACCAGAATGCAATCTTGAAGCGAATAACTTCTGGGATCCCTGTTGTAGCTGTGGTGGAT	1	1.02	Root; d__Bacteria
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAGCAGCTCGCCGTGCGCGAAGCGCAGCGCCTTGGTATGCCCATCATCGCTCTGGTCGAC	1	1.01	Root; d__Bacteria; p__Actinobacteriota; c__Thermoleophilia; o__Gaiellales; f__Gaiellaceae; g__Fen-549
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAACAGATCGCGGTCGACGAGGCGCGGAAGCTCAAGATTCCCGTAATCGGGATCGTCGAT	1	1.01	Root; d__Bacteria; p__Acidobacteriota; c__Vicinamibacteria; o__Vicinamibacterales; f__UBA2999
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAGCGGATCGCCGTGACCGAGGCCAACAAGCTCGAGATCCCGCTCGTCGGGACCGGTGAC	3	3.04	Root; d__Bacteria; p__Chloroflexota; c__Ellin6529; o__CSP1-4; f__CSP1-4
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAAAGGATACCCGTGGCGGAGGCGCGCAAGCTCGGTATACCGATCGTGGGCCTGGTCGAC	2	2.02	Root; d__Bacteria
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAACGCATCGCCGTCGCAGAGTCGAACCGCGTCGGCATTCCCATCGTCGCCATGGTCGAT	1	1.01	Root; d__Bacteria; p__Chloroflexota; c__Dehalococcoidia
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAGCAGGTCGCCGCCGACGAGGCGCGGAAGCTCAAGATCCCCGTGATCGGCATCGTCGAC	1	1.02	Root; d__Bacteria; p__Acidobacteriota; c__Vicinamibacteria; o__Vicinamibacterales; f__UBA2999
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAGCGCATCGCCGTCACCGAGGCG---AAGCTCGAGATCCCGGTGGTCGGCACCGGCGAC	1	1.01	Root; d__Bacteria; p__Chloroflexota; c__Ellin6529; o__CSP1-4; f__CSP1-4; g__UBA5189
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAAGCCATCGCCGTGGCTGAAGCCAACAAGCTGAAGATCCCGGTGGTCGCCATCGTGGAC	1	1.01	Root; d__Bacteria; p__Verrucomicrobiota; c__Kiritimatiellae
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAACACAATGCTGTGGCTGAAGCTGCGCCAGTTGAAGATTCCGGTGTAACCATCGTGGAC	1	1.01	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Pedosphaerales; f__Pedosphaeraceae
+S2.8.ribosomal_protein_S2_rpsB	nanopore	AGGAGATCCGGGGTTCGAGAGGCTCGCCGGCTCGGCATTCCGGCGATCGGCCTGGTCGAC	1	1.03	Root; d__Bacteria; p__Actinobacteriota; c__Thermoleophilia; o__Solirubrobacterales
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAGAAGAACGCCATCGGCGAGGCCCGCAAACTGGGCATCACCACCGTG---CTGATCGAC	1	1.01	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetes; o__Pirellulales; f__PALSA-1355
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAAACGATCGCCATCGCCGAGGCCCGGAAGATGCACATCCCCATCGTGGCCGTCGTCGAC	1	1.01	Root; d__Bacteria; p__Acidobacteriota; c__Aminicenantia; o__Aminicenantales
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAGTACATAGCGGTAAAGGAAGCAAAAAAACTTGGCATACCCACAATAGGGATCGTCGAC	1	1.04	Root; d__Bacteria; p__Desulfobacterota; c__Syntrophorhabdia; o__Syntrophorhabdales; f__Syntrophorhabdaceae
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAGCGGATCGCGGTCGCCGAGTGCATCAAGCTGGAGATCCCGATCATCGGGACCGACGAC	1	1.01	Root; d__Bacteria; p__Chloroflexota; c__Ellin6529; o__CSP1-4; f__CSP1-4
+S2.8.ribosomal_protein_S2_rpsB	nanopore	AGACGGATCGCCGTGACCGAGGCGCTCAAGCTCGAGATCCCCGTCGTCGGGACCGGCGAC	1	1.01	Root; d__Bacteria; p__Chloroflexota; c__Ellin6529; o__CSP1-4; f__CSP1-4
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAACACAACGCCGTGGCGGAGGCCAAGAAGCTCGGCATTCCCGTCATGGCGCTCGTGGAC	1	1.02	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Pedosphaerales; f__Pedosphaeraceae; g__UBA11358
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAGCGGATTGCGATTCAGGAGGCGTTGCCGGCTGGCATCCCGGTGGTCGCGGTCGTGGAC	1	1.04	Root; d__Bacteria; p__Methylomirabilota; c__Methylomirabilia; o__Methylomirabilales
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GATCGCGGT------CGCCGGGCGCGCAAGCTGAAGATCCCGGTGATCGGCGTCCTCGAC	1	1.02	Root; d__Bacteria; p__Acidobacteriota
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAGCGGATCGCGGTCACTGAGGCCTGCAAGCTGGAGATCCCCATCGTCGGCACCGGCGAC	1	1.01	Root; d__Bacteria; p__Chloroflexota; c__Ellin6529; o__CSP1-4; f__CSP1-4
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAGCGGATCGGCGTGACCGAGGCGAACAAGCTCGAGATCCCCGTCGTGGGCACCGGCGAT	1	1.03	Root; d__Bacteria; p__Chloroflexota; c__Ellin6529; o__CSP1-4; f__CSP1-4
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAGCGGATCGCGGTCGCCGAGTGCATCAAGCTGGAGATCCCGATCATCGGGACCGGCGAC	1	1.01	Root; d__Bacteria; p__Chloroflexota; c__Ellin6529; o__CSP1-4; f__CSP1-4
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAAAAAATCGCCATTGCAGAAGCAAGGAAACTGAATATACCGACCTTCGCCATCGTAGAT	1	1.01	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAGCACATCGCCGTCATCGAGGCGCGCAAGCTCGAGATCCCGGTCATCGGCACCGGCGAC	1	1.01	Root; d__Bacteria; p__Chloroflexota; c__Ellin6529; o__CSP1-4; f__CSP1-4
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAAGCGACCGCCATCCATGAAGCAGATCTATTAAACATCCCGGTAGTGGCGATGGTGGAT	1	1.01	Root; d__Bacteria; p__Chloroflexota; c__Anaerolineae; o__Anaerolineales; f__UBA6092
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAGCGGGTCGCGGTCGCCGAGTGCATCAAGCTGGAGATCCCGATCATCGGGACCGGCGAC	1	1.03	Root; d__Bacteria; p__Chloroflexota; c__Ellin6529; o__CSP1-4; f__CSP1-4
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GGACACTGG------TCTCGGGCCGGCGCCCTGAACATCCCCATCGTGGCGGTCTGCGAC	1	1.02	Root; d__Bacteria; p__Elusimicrobiota; c__Elusimicrobia; o__UBA1565; f__UBA9628
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAGTCGCTTGCCGTGGATGAGGCGAACAAGCTCCATGTGCCCATCGTGGCCATGGTGGAC	1	1.02	Root; d__Bacteria; p__Chloroflexota; c__Anaerolineae; o__Caldilineales
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAAACGATTGCCGTGAAGGAGGCCAAGCGGCTCGGCATCCCGGTTTTCGCCATCGTTGAT	1	1.01	Root; d__Bacteria; p__Bacteroidota; c__UBA10030; o__UBA10030; f__UBA6906
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAGGAGATCGCCATCTCGGAAGCGCTGAAGTTGAACATCCCGATCATCGCCATCGTCGAT	1	1.01	Root; d__Bacteria; p__Acidobacteriota; c__Aminicenantia; o__Aminicenantales; f__UBA4085; g__UBA4085
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAAGATCTGGTGTGCGGCGAGTGCAACTTGCTCGAAATCCCGATTGTTGCCCTGGTCGAT	1	1.04	Root; d__Bacteria; p__Chloroflexota; c__Anaerolineae; o__Anaerolineales; f__EnvOPS12; g__UBA5195
+S2.8.ribosomal_protein_S2_rpsB	nanopore	AGAGCGTATTGCAGTGAGAGAAGCAAAAAGGCTCGGTATCCCTGTTTTGCAATGGTTGAT	1	1.01	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__VadinHA17; g__LD21
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GATGATCTGGCCATCAAAGAAGCCAAAAAAGTGGGAATTCCGGTGGTGGCTATTGCTGAC	1	1.03	Root; d__Bacteria; p__Patescibacteria; c__Paceibacteria_A; o__Moranbacterales
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GGAGATATCACGATCCTGGAAGCCCGCAAGATGAACATCCCTATAGTGGCCATCGTCGAC	1	1.02	Root; d__Bacteria; p__Acidobacteriota; c__Aminicenantia; o__Aminicenantales; f__UBA4085; g__UBA4085
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GGGCACATCGCGGTCGCCGAGGCGCAAGCTCCAGAGATCCCGGTCATCGCCATCACCGAC	1	1.02	Root; d__Bacteria; p__Myxococcota; c__Polyangia
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAGCATATCGGCATTGCGGAGGTGAACCGCCTGACTATCCCTATCGGCGCCGTTGTCGAT	1	1.01	Root; d__Bacteria; p__Fibrobacterota; c__Chitinivibrionia; o__Chitinivibrionales; f__Chitinispirillaceae
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAAGAGATCGCGATCCGCGAACCGAACAGGCTGCACATCCCTATCGTCGCGATGGTGGAT	1	1.01	Root; d__Bacteria; p__Chloroflexota; c__Anaerolineae
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GCGAAGAGATCG---CGATCCGCGAACCGAACAGGCTGCACATCCCTATCGTGGATACGA	1	1.01	Root; d__Bacteria; p__Chloroflexota; c__Anaerolineae; o__UBA1429; f__UBA1429
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAAGCCATCGCCATCCAGGAAGCC---AAGCTCGGCATTCCGGTGACGGCGATCCTCGAC	1	1.02	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__UBA1301; f__UBA1301; g__UBA6038
+S2.8.ribosomal_protein_S2_rpsB	nanopore	AACCAGAATGCGGTCTTGGAAGCGAATAAAGCTGGATCCCCTGTTGTAGCTGTGGTGGAT	1	1.02	Root; d__Bacteria; p__Thermotogota; c__Thermotogae
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAATATATCGCTCTGGCAGAGGCCAAGAAGCCGGCA---TCCCGACCATCGCCCTTATCG	1	1.01	Root; d__Bacteria; p__Planctomycetota; c__Phycisphaerae; o__Sedimentisphaerales; f__Anaerohalophaeraceae
+S2.8.ribosomal_protein_S2_rpsB	nanopore	CAGGGAACTGCCATCCATGAAGCCAACCTTCTAAAAATTCCGGTGGTCGCCATGGTGGAT	1	1.02	Root; d__Bacteria; p__Chloroflexota; c__Anaerolineae; o__Anaerolineales; f__UBA6092
+S2.8.ribosomal_protein_S2_rpsB	nanopore	AGCGCATTCCCGTGGCGGAGG---CCGCGGTTGGGCATCCCAATTGTGGGCATCGTGGAC	1	1.01	Root; d__Bacteria; p__Actinobacteriota; c__RBG-13-55-18
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAGCGGATCGCCGTGACCGCGCCGGCCAGCGCCGAGATCCCGCTCGTCGGGACCGGTGAC	1	1.01	Root; d__Bacteria; p__Chloroflexota; c__Ellin6529; o__CSP1-4; f__CSP1-4
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAACATATTGCGGTGAGAGAAGCAAACGACTCGGAATCCCTGTTTTTTGCTATGGTTGAC	1	1.01	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__VadinHA17; g__LD21
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAGCATAACGCGGTGGCGGAAGGCCGCCGGTTGGGCATCCCCATCGTGGCCGTTGTCGAC	1	1.01	Root; d__Bacteria; p__Acidobacteriota; c__Acidobacteriae; o__Bryobacterales; f__Bryobacteraceae
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAAGCGACCGCCATCCATGAAGCAGATCTATTAAAACATCCCGGTAGTGGCGATGGTGGA	1	1.02	Root; d__Bacteria; p__Chloroflexota; c__Anaerolineae; o__Anaerolineales; f__UBA6092
+S2.8.ribosomal_protein_S2_rpsB	nanopore	AAGCTGACCGCCATCCATAGCCAGAATTCATTAAACATCCCGGTAGTGGCGATGGTATTA	1	1.04	Root; d__Bacteria; p__Chloroflexota; c__Anaerolineae; o__Anaerolineales; f__UBA6092
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAGGACATCGTCATCAAGGAAGCCCAGCGTGGCCGAAGCTGCCGATTATCGCCGAGGAGC	1	1.00	Root; d__Bacteria; p__Myxococcota; c__UBA9042; o__GCA-2863065; f__GCA-2863065
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAAGAACGCGGTGGCCGAGGCGCAGCGGCTGTCCAT---TCGGTGATCGCCATGCTGGAC	1	1.01	Root; d__Bacteria; p__Planctomycetota
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAGCGCATTCCCGTGGCGGAGGGCCGGCGGCTGGGCATCCCAATTGTGGGCATCGTGGAC	1	1.01	Root; d__Bacteria; p__Firmicutes_B; c__Dehalobacteriia
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAGTGCGCCGCTGTGCACGAAGTGCAACGGTGCTCAATCCCCATCGTTGCCATGGTGGAC	1	1.01	Root; d__Bacteria; p__Chloroflexota; c__Anaerolineae; o__Anaerolineales; f__EnvOPS12; g__UBA5195
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAAGACCTGGCTGTGGCTGAGTCTCGCCGCCTGGAAATCCTGATCGTCGCCTTGGTCGAC	1	1.01	Root; d__Bacteria; p__Chloroflexota; c__Dehalococcoidia
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAGCGCATCGCGGTCGCCGGCGGGCGCAAGCTCGGCATCCTGATCGTCGGGCTGGTCGAC	1	1.02	Root; d__Bacteria; p__Actinobacteriota; c__RBG-13-55-18; o__Fen-727; f__Fen-727
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GCGCATTCCCGTGGCCGGCGGAGCCGGCGGCTGGGCATCCCAATTGTAGACTCCGTGGAC	1	1.02	Root; d__Bacteria; p__Actinobacteriota; c__RBG-13-55-18; o__Fen-727; f__Fen-727
+S2.8.ribosomal_protein_S2_rpsB	nanopore	AGGTCGATCGCCATCGCCGAGGCGCGCAAGCTGCATATGCCGGTCGTGGCGGTGGTCGAC	1	1.01	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Methyloligellaceae; g__Methyloceanibacter
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAGCGCATCGCCGTGACGGGATCCCGCAAGCTCGGATCCCGA---TCGGCACCGGCGACA	1	1.01	Root; d__Bacteria; p__Chloroflexota; c__Ellin6529; o__CSP1-4; f__CSP1-4; g__Fen-1039
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAGCGGATCGCGGTCACCGAGGCCCGCAAGCTGGAGATCCTGATCGTCGGCACCGGCGAC	1	1.02	Root; d__Bacteria; p__Chloroflexota; c__Ellin6529; o__CSP1-4; f__CSP1-4
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GCGGCGATCGCA------GGTGGAAGCAGCTCCGTCGCCTCGGCATTCCGATTGTGGCAA	1	1.02	Root; d__Bacteria; p__Bacteroidota; c__UBA10030; o__UBA10030; f__UBA10030; g__Fen-1268
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAAAGACGCAGGTGGAAGCAGCTCCGTCGCCTCGGCATTCCGATTGTGGCAATCGTCGAT	1	1.02	Root; d__Bacteria; p__Bacteroidota; c__UBA10030; o__UBA10030; f__UBA10030
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAGCAGATCGCCGTCGACAGGCGCGCAAAGCTCAAGATCCCCGTGATCGGCATCGTCGGC	1	1.01	Root; d__Bacteria; p__Acidobacteriota; c__Vicinamibacteria; o__Vicinamibacterales
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAAGCAATTGCCGTCAAGGAGGCGAAGGCCCGGCGT---------TCCGGTCTTCGCGAT	1	1.01	Root; d__Bacteria; p__Bacteroidota; c__UBA10030; o__UBA10030; f__UBA6906
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAGCGTATTGCAGTGAGAGAAGCAAAAAAGGCTCGGTATCCCTGTTTTGCAATGGTTGAT	1	1.03	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__VadinHA17; g__LD21
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAGCAGCTCGCCGTGCGAGAGGCTCGTCGGCTCGGCCTCCCAGTCATGGCGCTCGTCGAC	1	1.01	Root; d__Bacteria; p__Actinobacteriota; c__Thermoleophilia; o__Gaiellales; f__Gaiellaceae
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAGCGGATCGCGGTCACCGAGGCCGCAAGCTGGAGATCCCCCATCGTCGGCACCGGCGAC	1	1.01	Root; d__Bacteria; p__Chloroflexota; c__Ellin6529; o__CSP1-4; f__CSP1-4
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAAACCACCGCGGTGCATGAAGCCAATCTTAAGAACACATCGTGGCATTGGTTGATACCA	1	1.01	Root; d__Bacteria; p__Chloroflexota; c__Anaerolineae; o__Anaerolineales; f__Anaerolineaceae
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAGCGCATCGCCGTCACCGAGGCGAACAAGCTCGAGATCCCGGTGGTCGGCACCGGCGAC	1	1.01	Root; d__Bacteria; p__Chloroflexota; c__Ellin6529; o__CSP1-4; f__CSP1-4; g__UBA5189
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GGCGAGATCGTCGTCAAGGAGGCGCAAGCTCAAGATCTCGATCACCGGGCTCGTCGACAC	1	1.01	Root; d__Bacteria; p__Actinobacteriota; c__Thermoleophilia; o__UBA2241; f__UBA2241
+S2.8.ribosomal_protein_S2_rpsB	nanopore	CGAACTGGTCGCCGTGACCGGGCGAACAAGCTCGAGATCCCCCTCGTGGGGACCGGCGAC	1	1.01	Root; d__Bacteria; p__Chloroflexota; c__Ellin6529; o__CSP1-4; f__CSP1-4
+S2.8.ribosomal_protein_S2_rpsB	nanopore	ACGAGAAGCTATCGGCACCAAGGAAGTCAAGCTCGGCCTGCCCTCATCGGGCTGGTCGAC	1	1.01	Root; d__Bacteria; p__Actinobacteriota; c__Thermoleophilia
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAGCGGATAGCGGTGACCGAAGCTCGCAGAAACCGGATTCCGTCATCGGCACGGGCGACA	1	1.02	Root; d__Bacteria; p__Chloroflexota; c__Ellin6529; o__CSP1-4; f__CSP1-4
+S2.8.ribosomal_protein_S2_rpsB	nanopore	CGGAAGATCGCGATCGCCGAGGCCGAACCGCCTCGCCGTCCCGATCGTGGCATCGTGGAC	1	1.02	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAGCCAGATCGGCGTCACCGGGGCCAACAAGCTCGAGATCCCGGTCGTTGGCACCGGCGA	1	1.02	Root; d__Bacteria; p__Chloroflexota; c__Ellin6529; o__CSP1-4; f__CSP1-4
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAGGATCTGGCGGTCGCCAAGTCCCGCCGCCTCGGGATCCCCATCGTGGCTCTGGTCCGA	1	1.00	Root; d__Bacteria; p__Chloroflexota
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GCACATCGCGGTCGGGGGAAGCCTGCAAGCTTGGCTCTCCTGGCGATCGCCATCGTCGAC	1	1.02	Root; d__Bacteria; p__RBG-13-66-14
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GATGATATCGCAGTACAAGAATCACGTAATGAAAAGATTCCAGTTATAGGAGTTTCAAAT	1	1.02	Root; d__Bacteria; p__Patescibacteria; c__Paceibacteria; o__UBA9983
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAAAGGATACCCGTGGCGGAGGCGCGCAAGCTCGGTATTACTGATCGTGGGGCGTGGACA	1	1.01	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Paenibacillales; f__Paenibacillaceae; g__Cohnella
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAACGGATAGCCATCCTGAGG---CCAGAAATTGGGGATCCCCTGGTATCGGTTGTGGAC	1	1.01	Root; d__Bacteria; p__Desulfobacterota; c__Desulfarculia
+S2.8.ribosomal_protein_S2_rpsB	nanopore	AAGACATCGCCGGTGGCGGAAGGCCAGAAGACCGGCATTTCGCTTCTGGCTATCGTGGAC	1	1.01	Root; d__Bacteria; p__Desulfobacterota; c__Desulfobaccia; o__Desulfobaccales
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAAGACATCGCGGTGGCGGAAGGCCAGAAGACCGGAATATCGCTTTTGGCCATCGTGGAC	1	1.01	Root; d__Bacteria; p__Desulfobacterota; c__Desulfobaccia; o__Desulfobaccales
+S2.8.ribosomal_protein_S2_rpsB	nanopore	CCTGCAGGCGCCATCGTATCTTGCAAGGCGGCTCCGCTCGAGATCGATCGTCGGCGGCGG	1	1.02	Root; d__Bacteria; p__Chloroflexota; c__Ellin6529; o__CSP1-4; f__CSP1-4; g__Fen-1039
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAACATATTGCCGTAAACAAA---AAAGACTTGGAATTCTGGTTTTTTGCAATGGTAGAT	1	1.02	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__VadinHA17; g__LD21
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAGACGATCGCGATC---GAAGGGCCGGCGGCTGGGATCCCCATCGTGCCGTCATTGGAC	1	1.01	Root; d__Bacteria; p__Desulfobacterota; c__MBNT15; o__MBNT15; f__MBNT15; g__CG2-30-66-27
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GGAAAGACATCGCCATCAAAGCCCGCAAGGTCAAGCGTCCCCTTGCTGGCCATCGTCGAC	1	1.03	Root; d__Bacteria; p__Desulfobacterota; c__Desulfobaccia; o__Desulfobaccales
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAAAGACATCGCCATCATGGAAGCCCGCAAGGTCAAGCGTCCCCTTGCTGGCCATCGTCG	1	1.03	Root; d__Bacteria; p__Desulfobacterota; c__Desulfobaccia; o__Desulfobaccales
+S2.8.ribosomal_protein_S2_rpsB	nanopore	AAGAAGATCGCGATCGCCGAAGCAGACCGTCTCGCGGTGCCGATCGTGGGCGTCGTGGAC	1	1.01	Root; d__Bacteria; p__Eisenbacteria; c__RBG-16-71-46; o__RBG-16-71-46; f__RBG-16-71-46
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAACATATCGCAGTAGAGAAGCAGAAACGACTTGGCGTTCCTGTTTTTGCAATGGTTGAC	1	1.01	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__VadinHA17; g__LD21
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAGCGCATCGCGGTGATCGAGGCGCGCAAGCTGGAGATCCCGCTCATCGGCACGGGCGAC	1	1.02	Root; d__Bacteria; p__Chloroflexota; c__Ellin6529; o__CSP1-4; f__CSP1-4
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAGAAGCTGGCTATCGCCGAAGCCAACCGGCTGGAGATCGGTGATCACGCGATGGTGGGC	1	1.01	Root; d__Bacteria; p__Edwardsbacteria; c__AC1; o__AC1; f__EtOH8
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GGAAGCGACGCCATCCATGAAGCAGATCTAATGTTT---------ATCGGTAGTGGCGAT	1	1.01	Root; d__Bacteria; p__Chloroflexota; c__Anaerolineae; o__Anaerolineales; f__UBA6092
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAAGCGACCGCCATCCATGAAGCAGATCTATTCATTTATCCCGGTAGTGGCGATGGTGGA	1	1.01	Root; d__Bacteria; p__Chloroflexota; c__Anaerolineae; o__Anaerolineales; f__UBA6092
+S2.8.ribosomal_protein_S2_rpsB	nanopore	AAGACATCGCCATCATGGAAGCCCGCAAGGTCAACGTCCCCCTTGCTGGCCATCGTCGGC	1	1.05	Root; d__Bacteria; p__Desulfobacterota; c__Desulfobaccia; o__Desulfobaccales
+S2.8.ribosomal_protein_S2_rpsB	nanopore	CTGCGGATCGGCGTGACCGAGGCGAACAAGCTCGAGATCCACGTCGTGGGCACCGGCGAT	1	1.04	Root; d__Bacteria; p__Chloroflexota; c__Ellin6529; o__CSP1-4; f__CSP1-4
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAGCACAACGCCATCGCCGAAGCCCGCCGCCTCAAGATTCCCGTCGTGCCATCA---GGA	1	1.01	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Pedosphaerales; f__Pedosphaeraceae
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAGCACAACGCCGTCGCCGAGGCCTGCTGGCCTGGCGCCCACGTCGTCGCGATTGTGGAT	1	1.01	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Pedosphaerales; f__Pedosphaeraceae
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAAGGATCG---TATGGTGAAAGAAGCTGCTGGCATTCCGTGATTGCAGAATTCGTCGAT	1	1.02	Root; d__Bacteria; p__Bacteroidota; c__UBA10030; o__UBA10030; f__UBA10030; g__Fen-1268
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAATATTTAGCTGTGGCTGAAGCCAAAAAAATTGGGTTTGCCGATTATTATTATAGATAC	1	1.01	Root; d__Bacteria; p__Bacteroidota; c__UBA10030
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAGTCGCTTGCCGTGGATGAGGCGAACAAGCTCCGTGGCCCATCGTGG---CTATGGTGG	1	1.02	Root; d__Bacteria; p__Chloroflexota; c__Anaerolineae; o__UBA3071
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GGGAGACGATCGCTATCCAGGGCCGGCGGCTGGGGGATCCCCATCGTCGCCATCGTAGAC	1	1.01	Root; d__Bacteria; p__Desulfobacterota; c__MBNT15; o__MBNT15; f__MBNT15; g__CG2-30-66-27
+S2.8.ribosomal_protein_S2_rpsB	nanopore	GAAAGATTCGCTGTGCGCGAGCGCAACTTGCTCCAAATCCCGATTGTGGCTCTGGTCGAT	1	1.01	Root; d__Bacteria; p__Chloroflexota; c__Anaerolineae; o__Anaerolineales; f__EnvOPS12; g__UBA5195
+S2.8.ribosomal_protein_S2_rpsB	nanopore	AGCCATATTGCCGTAAGAGAAGCGCAAAAGACTTGG---AATTCGGTTGCAATGGTAGAT	1	1.02	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__VadinHA17; g__LD21
+S2.8.ribosomal_protein_S2_rpsB	nanopore	CGAAGGCGCCCTTTCAGAAGCACGCGCCGCAAGTCCGTTTCT---TGTGCCCTTCTCGGT	1	1.01	Root; d__Bacteria; p__Patescibacteria; c__Gracilibacteria; o__BD1-5; f__UBA2023
