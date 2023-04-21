@@ -1,7 +1,5 @@
 # Example R markdown document
 
-Load data
-
 Load tidyverse
 
 ```{r}
@@ -9,6 +7,7 @@ library(tidyverse)
 ```
 
 Read data
+
 ```{r}
 singleM_i <- read_delim("Data/singleM.illumina.tsv", delim = "\t") %>% 
   select(-gene, -sequence) %>% 
@@ -74,9 +73,9 @@ singleM_i_g %>%
   slice(1:10)
 ```
 
-What are the potential differences in community composition between the samples?
-
+What are the potential differences in community composition between the samples?  
 On phylum level:
+
 ```{r}
 singleM_i_p %>% 
   ggplot(aes(x = Phylum, y = relabund, fill = Domain)) +
@@ -107,6 +106,7 @@ singleM_i_g %>%
 
 How many unclassifed?  
 On phylum level:
+
 ```{r}
 singleM_i_p %>% 
   filter(Phylum == "Unclassified") %>% 
@@ -115,6 +115,7 @@ singleM_i_p %>%
 ```
 
 On genus level:
+
 ```{r}
 singleM_i_g %>% 
   filter(Genus == "Unclassified") %>% 
