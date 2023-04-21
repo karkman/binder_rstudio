@@ -9,7 +9,7 @@ library(tidyverse)
 Read data
 
 ```{r}
-singleM_i <- read_delim("Data/singleM.illumina.tsv", delim = "\t") %>% 
+singleM_i <- read_delim("Data/singleM.Illumina.tsv", delim = "\t") %>% 
   select(-gene, -sequence) %>% 
   mutate(sample = str_remove(sample, ".illumina.R1")) %>% 
   mutate(taxonomy = str_remove(taxonomy, "Root; ")) %>% 
