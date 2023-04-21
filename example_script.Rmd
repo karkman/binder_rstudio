@@ -2,6 +2,139 @@
 
 Load data
 
+Load tidyverse
+
 ```{r}
-data <- read_tsv("Data/data.txt")
+library(tidyverse)
+```
+
+Read data
+```{r}
+singleM_i <- read_delim("Data/singleM.illumina.tsv", delim = "\t") %>% 
+  select(-gene, -sequence) %>% 
+  mutate(sample = str_remove(sample, ".illumina.R1")) %>% 
+  mutate(taxonomy = str_remove(taxonomy, "Root; ")) %>% 
+  mutate(taxonomy = str_remove_all(taxonomy, "[dpcofg]__")) %>% 
+  separate(taxonomy, into = c("Domain", "Phylum", "Class", "Order", "Family", "Genus"), sep = "; ") %>% 
+  mutate_at(vars(Domain:Genus), ~replace_na(., "Unclassified")) %>% 
+  filter(Domain %in% c("Archaea", "Bacteria"))
+
+singleM_n <- read_delim("Data/singleM.nanopore.tsv", delim = "\t") %>% 
+  select(-gene, -sequence) %>% 
+  mutate(taxonomy = str_remove(taxonomy, "Root; ")) %>% 
+  mutate(taxonomy = str_remove_all(taxonomy, "[dpcofg]__")) %>% 
+  separate(taxonomy, into = c("Domain", "Phylum", "Class", "Order", "Family", "Genus"), sep = "; ") %>% 
+  mutate_at(vars(Domain:Genus), ~replace_na(., "Unclassified")) %>% 
+  filter(Domain %in% c("Archaea", "Bacteria"))
+```
+
+Aggregate at the phylum level
+
+```{r}
+singleM_i_p <- singleM_i %>% 
+  group_by(across(Domain:Phylum), sample) %>% 
+  summarise(coverage = sum(coverage)) %>% 
+  group_by(sample) %>% 
+  mutate(relabund = (coverage/sum(coverage))*100) %>% 
+  ungroup()
+```
+
+Aggregate at genus level
+
+```{r}
+singleM_i_g <- singleM_i %>% 
+  group_by(across(Domain:Genus), sample) %>% 
+  summarise(coverage = sum(coverage)) %>% 
+  group_by(sample) %>% 
+  mutate(relabund = (coverage/sum(coverage))*100) %>% 
+  ungroup()
+```
+
+What are the main (most abundant) taxa in our samples?  
+On phylum level:
+
+```{r}
+singleM_i_p %>% 
+  group_by(across(Domain:Phylum)) %>% 
+  summarise(mean_relabund = mean(relabund)) %>% 
+  ungroup() %>% 
+  arrange(desc(mean_relabund)) %>% 
+  slice(1:10)
+```
+
+On genus level:
+
+```{r}
+singleM_i_g %>% 
+  group_by(across(Domain:Genus)) %>% 
+  summarise(mean_relabund = mean(relabund)) %>% 
+  ungroup() %>% 
+  arrange(desc(mean_relabund)) %>% 
+  filter(Genus != "Unclassified") %>% 
+  slice(1:10)
+```
+
+What are the potential differences in community composition between the samples?
+
+On phylum level:
+```{r}
+singleM_i_p %>% 
+  ggplot(aes(x = Phylum, y = relabund, fill = Domain)) +
+  geom_bar(stat = "identity") +
+  facet_grid(rows = vars(sample), cols = vars(Domain), space = "free", scale = "free_x") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+
+Top taxa genus level:
+
+```{r}
+TOP_GENERA <- singleM_i_g %>% 
+  group_by(across(Domain:Genus)) %>% 
+  summarise(mean_relabund = mean(relabund)) %>% 
+  ungroup() %>% 
+  arrange(desc(mean_relabund)) %>% 
+  filter(Genus != "Unclassified") %>% 
+  slice(1:50) %>% 
+  pull(Genus)
+
+singleM_i_g %>% 
+  filter(Genus %in% TOP_GENERA) %>% 
+  ggplot(aes(x = Genus, y = relabund, fill = Phylum)) +
+  geom_bar(stat = "identity") +
+  facet_grid(rows = vars(sample), cols = vars(Domain), space = "free", scale = "free_x") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+
+How many unclassifed?  
+On phylum level:
+```{r}
+singleM_i_p %>% 
+  filter(Phylum == "Unclassified") %>% 
+  group_by(sample) %>% 
+  summarise(sum = sum(relabund))
+```
+
+On genus level:
+```{r}
+singleM_i_g %>% 
+  filter(Genus == "Unclassified") %>% 
+  group_by(sample) %>% 
+  summarise(sum = sum(relabund))
+```
+
+How do the taxonomic profiles obtainted from Illumina and Nanopore data compare?
+
+```{r}
+singleM_n_p <- singleM_n %>% 
+  group_by(across(Domain:Phylum), sample) %>% 
+  summarise(coverage = sum(coverage)) %>% 
+  group_by(sample) %>% 
+  mutate(relabund = (coverage/sum(coverage))*100) %>% 
+  ungroup()
+
+bind_rows(singleM_i_p, singleM_n_p) %>% 
+  ggplot(aes(x = Phylum, y = relabund, fill = Domain)) +
+  geom_bar(stat = "identity") +
+  facet_grid(rows = vars(sample), cols = vars(Domain), space = "free", scale = "free_x") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
 ```
